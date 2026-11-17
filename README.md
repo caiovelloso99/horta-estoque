@@ -1,10 +1,10 @@
-# 🌱 Monitoramento de Estoque para Horta Comunitária
+Monitoramento de Estoque para Horta Comunitária
 
 Sistema em desenvolvimento para apoiar a gestão do estoque de uma horta comunitária e ajudar a reduzir o desperdício de alimentos, especialmente durante períodos de seca.
 
-![Status do projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Projeto ainda no inicio](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
-## 🎯 Sobre o projeto
+Sobre o projeto
 
 Períodos de estiagem podem reduzir a produção de alimentos e tornar ainda mais importante o uso cuidadoso dos recursos disponíveis. Este projeto propõe uma ferramenta para registrar e acompanhar o estoque da horta, incluindo as entradas e saídas de produtos.
 
@@ -12,23 +12,22 @@ Com essas informações organizadas, a iniciativa busca facilitar o acompanhamen
 
 O projeto se relaciona ao **ODS 2 da ONU: Fome Zero e Agricultura Sustentável**.
 
-## 🛠️ Tecnologias
+Tecnologias
 
 As tecnologias serão definidas durante o desenvolvimento. Atualmente, o projeto está em fase de planejamento.
 
 - HTML
 - [CSS ou framework de estilos]
-- [Linguagem de programação]
-- [Banco de dados, se houver]
+- [JAVA SCRIPT]
 
-## ⚙️ Funcionalidades planejadas
+
+Funcionalidades planejadas
 
 - [ ] Cadastrar produtos da horta
 - [ ] Registrar entradas e saídas do estoque
 - [ ] Consultar os produtos disponíveis
-- [ ] [Adicionar outras funcionalidades após defini-las]
 
-## 🖼️ Telas do projeto
+Telas do projeto
 
 As imagens serão adicionadas conforme as telas forem desenvolvidas.
 
@@ -36,7 +35,7 @@ As imagens serão adicionadas conforme as telas forem desenvolvidas.
 ![Tela inicial do sistema](prints/tela-inicial.png)
 -->
 
-## ▶️ Como executar
+Como executar
 
 As instruções para executar o projeto serão adicionadas quando a estrutura e as tecnologias estiverem definidas.
 
